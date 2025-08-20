@@ -31,6 +31,8 @@
 
 ## Steps
 ### 1. Reviewed the **Botium Toys: Scope, Goals, and Risk Assessment Report**.  
+docs/Botium Toys_ Scope, goals, and risk assessment report.pdf
+
 
 2. Completed the **Controls Assessment Checklist** to determine which security controls were in place.  
 3. Completed the **Compliance Checklist** to evaluate adherence to regulations and best practices.  
